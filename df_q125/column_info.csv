@@ -1,0 +1,19 @@
+Column Name,Data Type
+fecha_despacho,object
+anio_despacho,object
+mes_despacho,object
+dia_despacho,object
+tipo_proveedor,object
+codigo_municipio_dane,object
+departamento_proveedor,object
+municipio_proveedor,object
+tipo_comprador,object
+zona_frontera,object
+subtipo_comprador,object
+codigo_municipio_dane_destino,object
+departamento,object
+municipio,object
+producto,object
+volumen_despachado,object
+latitud,object
+longitud,object

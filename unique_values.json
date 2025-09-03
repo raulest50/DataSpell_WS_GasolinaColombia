@@ -1,0 +1,18 @@
+{
+    "tipo_proveedor": [
+        "DISTRIBUIDOR MAYORISTA"
+    ],
+    "tipo_comprador": [
+        "DISTRIBUIDOR MINORISTA"
+    ],
+    "subtipo_comprador": [
+        "ESTACION DE SERVICIO AUTOMOTRIZ",
+        "ESTACION DE SERVICIO FLUVIAL"
+    ],
+    "producto": [
+        "GASOLINA MOTOR EXTRA",
+        "BIODIESEL CON MEZCLA",
+        "DIESEL MARINO",
+        "GASOLINA MOTOR CORRIENTE"
+    ]
+}
